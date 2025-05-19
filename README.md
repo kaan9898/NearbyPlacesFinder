@@ -19,17 +19,16 @@
 
 🛠️ Tech Stack
 
-Layer	Technology
 
-Frontend	React, Vite.js, Netlify
+🚨Frontend	React, Vite.js, Netlify
 
-Backend	Java, Spring Boot, REST API, Render
+🚨Backend	Java, Spring Boot, REST API, Render
 
-Database	PostgreSQL (Neon)
+🚨Database	PostgreSQL (Neon)
 
-DevOps	Docker (for backend containerization)
+🚨DevOps	Docker (for backend containerization)
 
-Deployment	Frontend on Netlify, Backend on Render
+🚨Deployment	Frontend on Netlify, Backend on Render
 
 👨‍💻 Author
 GitHub: @kaan9898
