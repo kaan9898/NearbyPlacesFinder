@@ -2,6 +2,7 @@
 
 🌍 Nearby Places Finder — A web application that helps you discover nearby places on the map based on your current location.
 
+
 🔗 Live Demo → https://tranquil-capybara-87677c.netlify.app
 
 🚀 Features
