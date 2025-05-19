@@ -11,7 +11,7 @@ function App() {
   console.log("API KEY:", apiKey);
   const handleSearch = async () => {
     try {
-      const res = await axios.get(`http://localhost:8070/api/places`, {
+      const res = await axios.get(`https://demo-deployment-tnb1.onrender.com/api/places`, {
         params: { lat, lng, radius },
       });
       setPlaces(res.data.results);
